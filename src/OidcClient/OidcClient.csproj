@@ -37,7 +37,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="IdentityModel" Version="5.2.0" />
+    <PackageReference Include="IdentityModel" Version="4.4.0" />
     <PackageReference Include="minver" Version="3.0.0-alpha.1" PrivateAssets="All" />
     
     <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
